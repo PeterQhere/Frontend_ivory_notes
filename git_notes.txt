@@ -1,0 +1,1 @@
+git init: used to initialise a repository (git init)
