@@ -1,1 +1,17 @@
 git init: used to initialise a repository (git init)
+
+git add: used to change in the working directory (git add <filename>)
+
+git status: to display the state of the working directory and the staging area (
+
+git clone: to create a copy of the target repository (clone <repository_url>)
+
+git commit -m: captures a snapshot of a project (git commit -m "Commit messsage")
+
+git log: to display snapshots after commiting (git log) (git long --online)
+
+git branch: to create, list, rename and delete branches (git branch <branch_name>)
+
+git merge: to put together a forked history (git merge <branch_name>)
+
+i'm a tech bro
